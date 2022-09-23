@@ -1,0 +1,14 @@
+title: Ryan Ellison
+logo: /assets/img/Profile.JPG
+# ee_poster: /assets/img/EE_poster.jpeg
+# jbu_snippet: /assets/img/JBU_snippet.png
+twitter: https://twitter.com/vladUngu
+linkedin: https://www.linkedin.com/in/vlad-ungureanu/
+github: https://github.com/vladUng
+description: Vlad Ungureanu's Website
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+
+gems:
+  - jemoji
