@@ -1,5 +1,5 @@
 title: Ryan Ellison
-logo: /assets/img/Picture_Me.JPG
+logo: /docs/assets/img/Picture_Me.jpg
 
 twitter: https://twitter.com/_Ryan_Ellison
 linkedin: https://www.linkedin.com/in/ryan-ellison-b5b7b4159/
@@ -11,3 +11,6 @@ theme: jekyll-theme-minimal
 
 gems:
   - jemoji
+
+
+  

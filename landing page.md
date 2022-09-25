@@ -6,7 +6,7 @@ layout: default
 
 # Academic Life
 ## Research Interests
-I began my research journey during my Undergrad at the University of Oxford. I became interested in the fundamental underlying biology of cancers, ad how this could be used to target them. I was first able to put this into practice during a placement in the lab of [Professor Eric Cascales](https://www.cascaleslab.fr/) in Marseilles, where I worked to produce genetically engineered E. coli capable of targetting and killing colorectal cancer cells. This work was made possible by a [Laidlaw Scholarship](https://www.exeter.ox.ac.uk/exeter-student-named-laidlaw-scholar-2018/) I was awarded. You can read more about my Laidlaw research project [here](Laidlaw-Yearbook-2018-My-Profile/pdf).
+I began my research journey during my Undergrad at the University of Oxford. I became interested in the fundamental underlying biology of cancers, ad how this could be used to target them. I was first able to put this into practice during a placement in the lab of [Professor Eric Cascales](https://www.cascaleslab.fr/) in Marseilles, where I worked to produce genetically engineered E. coli capable of targetting and killing colorectal cancer cells. This work was made possible by a [Laidlaw Scholarship](https://www.exeter.ox.ac.uk/exeter-student-named-laidlaw-scholar-2018/) I was awarded. You can read more about my Laidlaw research project [here](C:\Users\ryanj\Desktop\Github\RyanJ-Ellison.github.io\docs\assets\img\Laidlaw-Yearbook-2018-My-Profile.pdf).
 
 I'm currently based at the [Jack Birch Unit](https://www.york.ac.uk/biology/jack-birch-unit/) in the [York Biomedical Research Institute](https://www.york.ac.uk/biomedical-research-institute/) of the University of York Biology Department. The Jack Birch Unit studies the epithelial lining of the bladder and urinary tract, called the urothelium. We study the normal biology of the urothelium to understand how it is altered in various disease states, such as bladder cancer.
 
@@ -46,6 +46,7 @@ I studied for an Undergraduate and Integrated Masters Degree in Biochemistry (MB
 --->
 
 - Laidlaw Scholarship - During the 2nd Year of my undergarduate degree, I was awarded funding to perform research in the Cascales Lab in Marseilles. Here I began development of genetically engineered E. coli bacteria to target and kill colorectal cancer cells.
+<!--put in photo of me with my poster at the conference>
 
 ## Lab technical expertise
 <!--
@@ -64,3 +65,4 @@ I competed in several UK tournaments both as an individual and as part of the Ox
 
 During the second year of my PhD at the University of York I became captain of the University Kendo club, which I help to run along with the other committee members. As part of my role as captain I am responsible for planning and running the Kendo club practice sessions. This involves teaching Kendo to people of all abilities, the vast majority of who have never practiced Kendo before.
 <!--put in photo of the york uni kendo club>
+![Branching]({{site.ee_poster | relative_url}})
