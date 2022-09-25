@@ -15,7 +15,7 @@ layout: default
 
 # Academic Life
 ## Research Interests
-I began my research journey during my Undergrad at the University of Oxford. I became interested in the fundamental underlying biology of cancers, ad how this could be used to target them. I was first able to put this into practice during a placement in the lab of [Professor Eric Cascales](https://www.cascaleslab.fr/) in Marseilles, where I worked to produce genetically engineered E. coli capable of targetting and killing colorectal cancer cells. This work was made possible by a [Laidlaw Scholarship](https://www.exeter.ox.ac.uk/exeter-student-named-laidlaw-scholar-2018/) I was awarded.
+I began my research journey during my Undergrad at the University of Oxford. I became interested in the fundamental underlying biology of cancers, and how this could be used to target them. I was first able to put this into practice during a placement in the lab of [Professor Eric Cascales](https://www.cascaleslab.fr/) in Marseilles, where I worked to produce genetically engineered E. coli capable of targetting and killing colorectal cancer cells. This work was made possible by a [Laidlaw Scholarship](https://www.exeter.ox.ac.uk/exeter-student-named-laidlaw-scholar-2018/) I was awarded.
 
 <!--You can read about my Scholarhsip research here (then put a link to my laidlaw yearbook pdf)
 -->
