@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Intro
+
 
 # Academic Life
 ## Research Interests
@@ -45,12 +45,11 @@ I studied for an Undergraduate and Integrated Masters Degree in Biochemistry (MB
 ## Kendo
 I took up Kendo in my second year of university when I was looking for a way to stay fit. Put simply, Kendo is the way of the sword, the aim being to develop a strong human character through rigorous training with a bamboo sword.
 ![Me with Ikkyu certificate](/docs/assets/img/Kendo_Ikkyu_certificate.jpg)
-<!--put in photo here of me with my ikkyu certificate?-->
+
 
 I competed in several UK tournaments both as an individual and as part of the Oxford University Kendo club. This included first place in the University Taikai non-blackbelt division individuals and third place in the team competition. I also represented the University of Oxford in the annual Varisty competition against the University of Cambridge, which Oxford won.
 <!--Put in photo of me with the university?-->
 
 During the second year of my PhD at the University of York I became captain of the University Kendo club, which I help to run along with the other committee members. As part of my role as captain I am responsible for planning and running the Kendo club practice sessions. This involves teaching Kendo to people of all abilities, the vast majority of who have never practiced Kendo before.
-<!--put in photo of the york uni kendo club-->
+
 ![Edinburgh uni taikai](/docs/assets/img/_Kendo_York_Edinburgh.jpeg)
-<!--put in photo here of me with my ikkyu certificate?-->
