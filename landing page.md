@@ -26,10 +26,14 @@ I am currently studying for a PhD in Biomedical Sciences at the University of Yo
 I studied for an Undergraduate and Integrated Masters Degree in Biochemistry (MBiochem), at the University of Oxford (2016-2020), where I obtained an Upper Second Class Degree. My masters research project was based in the Lab of [Professor Ulrike Gruneberg](https://www.path.ox.ac.uk/content/ulrike-gruneberg), studying the Spindle Assembly Checkpoint, specifically the action of the protein MAD1.
 <!--
 ## Teaching experience
-<!--
+
 - Graduate teaching assitant work; running workshops, assiting in lab practicals
 - York uni kendo club captain, planning and leading sessions for about a year now
 - Lab mentoring of new students
+
+- **Graduate Teaching Assistant** - 
+- **Lab Mentoring** - 
+
 --->
 
 ## Outreach
