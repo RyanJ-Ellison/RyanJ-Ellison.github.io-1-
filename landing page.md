@@ -18,12 +18,13 @@ My research focuses on the role of two specific growth factor receptors, the Epi
 Recently, I have also begun to study the role of FGFR3 mutations in development of bladder cancer from healthy tissue.
 
 <!--Put in photo of me on microscope-->
+![Here I'm looking at immunohistochemistry staining of ureter tissue](/docs/assets/img/Me_microscope.jpg)
 
 ## Education
 I am currently studying for a PhD in Biomedical Sciences at the University of York (2020-2023). My PhD concerns the roles of growth factor receptors in bladder cancer and how they interact with tumour differentiation status.
 
 I studied for an Undergraduate and Integrated Masters Degree in Biochemistry (MBiochem), at the University of Oxford (2016-2020), where I obtained an Upper Second Class Degree. My masters research project was based in the Lab of [Professor Ulrike Gruneberg](https://www.path.ox.ac.uk/content/ulrike-gruneberg), studying the Spindle Assembly Checkpoint, specifically the action of the protein MAD1.
-
+<!--
 ## Teaching experience
 <!--
 - Graduate teaching assitant work; running workshops, assiting in lab practicals
@@ -38,6 +39,9 @@ I studied for an Undergraduate and Integrated Masters Degree in Biochemistry (MB
 - Public engagement; talk at YAC AGM about what our research actually is
 - Charity work; bladder cancer wareness day, York 10K raising money for YAC
 --->
+- **Running "Meet a PhD" Sessions** - Currently I run these sessions in the University of York Biology Department. The idea is to make a space for undergraduate students to come and ask questions about postgraduate study, and get honest answers. We also have free pizza!
+- **University Outreach Talks** - I've given several talks on topics such as studying a science degree at university, careers options after a science degree, and what studying for a PhD is actually like. I've previously spoken at Carmel Sixth Form College (St Helens) and Selby College (York).
+- **Public Enagement** - I enjoy communicating to the public about the importance of bladder cancer research, and what we actually do! This has included presenting my research to the public at the York Against Cancer Annual General Meeting, and also spreading awareness of the risk factors of bladder cancer during our Bladder Cancer Awareness Day event.
 ## Academic Presentations
 <!--
 - Laidlaw Scholarship presentation
@@ -47,12 +51,15 @@ I studied for an Undergraduate and Integrated Masters Degree in Biochemistry (MB
 - Poster Presentation Biology RAD 2022
 - Poster Presentation IBCN 2022
 --->
+- **International Bladder Cancer Network 2022 (Barcelona)** - Flash Talk and Poster presentation
+- **University of York Biology Research Away Day 2022 (York)** - Poster Presentation
+- **British Association for Cancer Research 60th Anniversary Conference (Nottingham)** - Poster Presentation; Awarded funding to attend
 ## Awards
-- British Association for Cancer Research (BACR) Travel grant - I was awarded a travel grant to attend the BACR 60th Anniversary Meeting in  Nottingham in 2022, where I presented part of my PhD research as a poster.
+- **British Association for Cancer Research (BACR) Travel grant** - I was awarded a travel grant to attend the BACR 60th Anniversary Meeting in  Nottingham in 2022, where I presented part of my PhD research as a poster.
 <!--- Put in picture of me next to my poster at the conference
 --->
 
-- Laidlaw Scholarship - During the 2nd Year of my undergarduate degree, I was awarded funding to perform research in the Cascales Lab in Marseilles. Here I began development of genetically engineered E. coli bacteria to target and kill colorectal cancer cells.
+- **Laidlaw Scholarship** - During the 2nd Year of my undergarduate degree, I was awarded funding to perform research in the Cascales Lab in Marseilles. Here I began development of genetically engineered E. coli bacteria to target and kill colorectal cancer cells.
 <!--put in photo of me with my poster at the conference>
 
 ## Lab technical expertise
