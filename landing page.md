@@ -8,9 +8,16 @@ layout: default
 ## Research Interests
 I began my research journey during my Undergrad at the University of Oxford. I became interested in the fundamental underlying biology of cancers, ad how this could be used to target them. I was first able to put this into practice during a placement in the lab of [Professor Eric Cascales](https://www.cascaleslab.fr/) in Marseilles, where I worked to produce genetically engineered E. coli capable of targetting and killing colorectal cancer cells. This work was made possible by a [Laidlaw Scholarship](https://www.exeter.ox.ac.uk/exeter-student-named-laidlaw-scholar-2018/) I was awarded. You can read more about my Laidlaw research project [here](C:\Users\ryanj\Desktop\Github\RyanJ-Ellison.github.io\docs\assets\img\Laidlaw-Yearbook-2018-My-Profile.pdf).
 
+<!--put in photo of me with my poster-->
+
+
 I'm currently based at the [Jack Birch Unit](https://www.york.ac.uk/biology/jack-birch-unit/) in the [York Biomedical Research Institute](https://www.york.ac.uk/biomedical-research-institute/) of the University of York Biology Department. The Jack Birch Unit studies the epithelial lining of the bladder and urinary tract, called the urothelium. We study the normal biology of the urothelium to understand how it is altered in various disease states, such as bladder cancer.
 
 My research focuses on the role of two specific growth factor receptors, the Epidermal Growth Factor Receptor (EGFR) and Fibroblast Growth Factor Receptor 3 (FGFR3). I'm interested in how the activity of these 2 receptors interacts with and may shape tumour differentiation status. By identifying and dissecting these unique interactions, I aim to adavnce our understanding of fundamental bladder cancer biology. It is my hope that this will inform on the use and mechanism of bladder cancer therapeutics, such at the [use of FGFR3 inhibitors for patients harbouring FGFR3 mutations](https://www.fda.gov/news-events/press-announcements/fda-approves-first-targeted-therapy-metastatic-bladder-cancer).
+
+Recently, I have also begun to study the role of FGFR3 mutations in development of bladder cancer from healthy tissue.
+
+<!--Put in photo of me on microscope-->
 
 ## Education
 I am currently studying for a PhD in Biomedical Sciences at the University of York (2020-2023). My PhD concerns the roles of growth factor receptors in bladder cancer and how they interact with tumour differentiation status.
@@ -24,7 +31,7 @@ I studied for an Undergraduate and Integrated Masters Degree in Biochemistry (MB
 - Lab mentoring of new students
 --->
 
-## Academic Service
+## Outreach
 <!--
 - Running "Meet a PhD" sessions
 - Outreach talks at Carmel college, Selby college at university and further study
@@ -53,7 +60,6 @@ I studied for an Undergraduate and Integrated Masters Degree in Biochemistry (MB
 --->
 
 # Personal Life
-I'd like to think I'm interesting outside of an academic context too!
 
 ## Kendo
 I took up Kendo in my second year of university when I was looking for a way to stay fit. Put simply, Kendo is the way of the sword, the aim being to develop a strong human character through rigorous training with a bamboo sword.
@@ -64,5 +70,4 @@ I competed in several UK tournaments both as an individual and as part of the Ox
 <!--Put in photo of me with the university?-->
 
 During the second year of my PhD at the University of York I became captain of the University Kendo club, which I help to run along with the other committee members. As part of my role as captain I am responsible for planning and running the Kendo club practice sessions. This involves teaching Kendo to people of all abilities, the vast majority of who have never practiced Kendo before.
-<!--put in photo of the york uni kendo club>
-![Branching]({{site.ee_poster | relative_url}})
+<!--put in photo of the york uni kendo club-->

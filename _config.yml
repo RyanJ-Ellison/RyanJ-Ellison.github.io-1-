@@ -9,8 +9,9 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 
+uni_taikai_york: /docs/assets/img/_Kendo_York_Edinburgh.jpeg
+me_microscope: /docs/assets/img/Me_microscope.jpg
+laidlaw_me_poster: /docs/assets/img/Laidlaw_Profile.jpg
+
 gems:
   - jemoji
-
-
-  
