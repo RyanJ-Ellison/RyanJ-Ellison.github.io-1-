@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/in/ryan-ellison-b5b7b4159/
 description: Ryan Ellison's Website
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: just-the-docs
 
 uni_taikai_york: /docs/assets/img/_Kendo_York_Edinburgh.jpeg
 me_microscope: /docs/assets/img/Me_microscope.jpg
