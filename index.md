@@ -1,5 +1,14 @@
 ---
 layout: default
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X7P50197W6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X7P50197W6');
+</script>
 ---
 
 
@@ -19,6 +28,7 @@ Recently, I have also begun to study the role of FGFR3 mutations in development 
 
 <!--Put in photo of me on microscope-->
 ![Here I'm looking at immunohistochemistry staining of ureter tissue](/docs/assets/img/Me_microscope.jpg)
+In the photo above you can see me looking at immunohistochemical staining of some ureter tissue!
 
 ## Education
 I am currently studying for a PhD in Biomedical Sciences at the University of York (2020-2023). My PhD concerns the roles of growth factor receptors in bladder cancer and how they interact with tumour differentiation status.
