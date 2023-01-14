@@ -62,4 +62,4 @@ I competed in several UK tournaments both as an individual and as part of the Ox
 
 During the second year of my PhD at the University of York I became captain of the University Kendo club, which I help to run along with the other committee members. As part of my role as captain I am responsible for planning and running the Kendo club practice sessions. This involves teaching Kendo to people of all abilities, the vast majority of who have never practiced Kendo before.
 
-![Edinburgh uni taikai](/docs/assets/img/_Kendo_York_Edinburgh.jpeg)
+![Edinburgh uni taikai](/docs/assets/img/UniTaikai.jpeg)
