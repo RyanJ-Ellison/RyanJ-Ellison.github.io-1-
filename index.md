@@ -27,7 +27,7 @@ My research focuses on the role of two specific growth factor receptors, the Epi
 Recently, I have also begun to study the role of FGFR3 mutations in development of bladder cancer from healthy tissue.
 
 <!--Put in photo of me on microscope-->
-![Here I'm looking at immunohistochemistry staining of ureter tissue](/docs/assets/img/Me_microscope.jpg)
+![Here I'm looking at immunohistochemistry staining of ureter tissue](/assets/imgages/Me_microscope.jpg)
 In the photo above you can see me looking at immunohistochemical staining of some ureter tissue!
 
 ## Education
