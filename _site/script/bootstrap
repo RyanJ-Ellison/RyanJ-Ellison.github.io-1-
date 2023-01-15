@@ -1,7 +1,0 @@
-#!/bin/sh
-
-set -e
-
-gem install --user-install bundler
-gem install --user-install jemoji
-bundle install
